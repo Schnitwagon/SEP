@@ -1,0 +1,2 @@
+# Schnitwagon Engine Plugins - WORK IN PROGRESS
+A collection of my own plugins for RPG Maker MV. Currently, this repo is a work-in-progress, so I'm just using Github to log changes as I learn RPG Maker MV & JavaScript.
